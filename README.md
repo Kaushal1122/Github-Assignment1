@@ -1,8 +1,10 @@
-##Screenshots
-###Undo Commit
+## Screenshots
+
+### Undo Commit
 ![Undo Commit](screenshots/Drop-commit.png)
 
-###Squash Commit
+
+### Squash Commit
 ![Squash Commit](screenshots/squash-commit-1.png)
 
 ![Squash Commit](screenshots/squash-commit-2.png)
